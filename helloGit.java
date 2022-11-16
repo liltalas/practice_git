@@ -10,7 +10,7 @@ public class helloGit {
         System.out.println("What is your favorite city? ");
         String city = sc.next();
 
-        if(Objects.equals(city, "Boston")){
+        if(Objects.equals(city, "Boston and San Francisco")){
             System.out.println("Awesome :) ");
         } else{
             System.out.println("Cool XD");
